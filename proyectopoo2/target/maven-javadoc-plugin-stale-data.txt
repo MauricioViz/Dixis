@@ -1,0 +1,58 @@
+@options
+@packages
+-classpath
+'C:/Users/CHRISTOPHER/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/CHRISTOPHER/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar;C:/Users/CHRISTOPHER/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE190/AbsoluteLayout-RELEASE190.jar;C:/Users/CHRISTOPHER/.m2/repository/com/itextpdf/itextpdf/5.5.13.3/itextpdf-5.5.13.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/CHRISTOPHER/Documents/NetBeansProjects/proyectopoo2/src/main/java;C:/Users/CHRISTOPHER/Documents/NetBeansProjects/proyectopoo2/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/CHRISTOPHER/Documents/NetBeansProjects/proyectopoo2/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyectopoo2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyectopoo2 1.0-SNAPSHOT API'
+com.mycompany.proyectopoo2
+controller
+model
+services
+util
+C:\Users\CHRISTOPHER\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1697929134841
+C:\Users\CHRISTOPHER\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1697929134977
+C:\Users\CHRISTOPHER\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE190\AbsoluteLayout-RELEASE190.jar = 1697949288827
+C:\Users\CHRISTOPHER\.m2\repository\com\itextpdf\itextpdf\5.5.13.3\itextpdf-5.5.13.3.jar = 1699205740719
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\src\main\java = 1699207212926
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\generated-sources\annotations = 1697928870848
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\allclasses-index.html = 1699212518192
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\allpackages-index.html = 1699212518200
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\copy.svg = 1699212518327
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\element-list = 1699212517546
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\help-doc.html = 1699212518318
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\index-all.html = 1699212518299
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\index.html = 1699212518106
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\link.svg = 1699212518331
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\member-search-index.js = 1699212518209
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\module-search-index.js = 1699212518205
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\overview-summary.html = 1699212518308
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\overview-tree.html = 1699212518094
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\package-search-index.js = 1699212518206
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\script.js = 1699212518322
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\search-page.js = 1699212518340
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\search.html = 1699212518305
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\search.js = 1699212518332
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\serialized-form.html = 1699212517729
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\stylesheet.css = 1699212518322
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\tag-search-index.js = 1699212518214
+C:\Users\CHRISTOPHER\Documents\NetBeansProjects\proyectopoo2\target\apidocs\type-search-index.js = 1699212518206
